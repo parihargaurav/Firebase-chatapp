@@ -25,4 +25,4 @@ yarn-error.log*
 
 # ignoring files
 
-/src/firebase-config.js
+src/firebase-config.js
